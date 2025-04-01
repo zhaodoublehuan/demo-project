@@ -1,0 +1,16 @@
+{
+  "name": "demo-project",
+  "version": "1.0.0",
+  "description": "一个示例项目，包含基本的项目结构和功能演示",
+  "main": "src/main/index.js",
+  "scripts": {
+    "test": "node src/test/index.test.js",
+    "start": "node src/main/index.js"
+  },
+  "keywords": [
+    "demo",
+    "example"
+  ],
+  "author": "zhaodoublehuan",
+  "license": "MIT"
+}
